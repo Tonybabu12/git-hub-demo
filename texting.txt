@@ -1,1 +1,1 @@
-The "dir" command followed by a search Term allows you to find files and view their file paths. To open a file, navigate to its directory using the "cd" command and enter the file name into Command Prompt. If the path or filename have spaces, put q
+The "dir" command followed by savio  a search Term allows you to find files and view their file paths. To open a file, navigate to its directory using the "cd" command and enter the file name into Command Prompt. If the path or filename have spaces, put q
